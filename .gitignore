@@ -1,0 +1,20 @@
+# TechX Sentiment Analysis Project .gitignore
+
+# Virtual Environment (IMPORTANT)
+techxEnv/
+techxEnv/Scripts/
+techxEnv/Lib/
+techxEnv/include/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Testing
+.pytest_cache/
